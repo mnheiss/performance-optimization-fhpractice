@@ -1,0 +1,17 @@
+{
+    "name": "PWABroadcast",
+    "short_name": "PWABroadcast",
+    "start_url": ".",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#2A3443",
+    "description": "A PWA for Broadcast Template",
+    "theme_color": "#2A3443",
+    "icons": [
+      {
+        "src": "favicon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
