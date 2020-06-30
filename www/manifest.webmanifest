@@ -1,17 +1,23 @@
 {
     "name": "PWABroadcast",
-    "short_name": "PWABroadcast",
+    "short_name": "PWA BC",
+    "display": "standalone",
     "start_url": ".",
     "scope": "/",
-    "display": "standalone",
-    "background_color": "#2A3443",
+    "background_color": "#cfc",
+    "theme_color": "#cfc",
     "description": "A PWA for Broadcast Template",
-    "theme_color": "#2A3443",
     "icons": [
       {
-        "src": "favicon.png",
+        "src": "favicon512.png",
         "sizes": "512x512",
         "type": "image/png"
+      },
+      {
+        "src": "favicon16.png",
+        "sizes": "16x16",
+        "type": "image/png",
+        "purpose": "badge"
       }
     ]
   }
